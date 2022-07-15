@@ -1,4 +1,4 @@
-# Heart-disease-prediction
+#  Heart-disease-prediction
 - Dataset used for heart disease prediction is available in kaggle and contains information regarding features like age,sex,chol,restecg,thal etc. The analysis focuses on which features are important in heart disease prediction and aid us in predicting heart diseases accurately..
 - Initially data is imported into panadas dataframe via Jupyter notebook, checked for any missing,duplicate values and observed the data distribution of the independant features using matplot lib package.
 - A heatmap was plotted between the correlations of the features which gives us an insight regarding the independant features that are important in predicting the diagnosis. 
